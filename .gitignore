@@ -1,1 +1,7 @@
 node.modules/
+.vscode/settings.json
+# Dependências do Node.js
+node_modules/
+
+# Configurações locais do VS Code
+.vscode/settings.json
