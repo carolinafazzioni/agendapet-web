@@ -1,7 +1,16 @@
+Updated upstream
 node.modules/
 .vscode/settings.json
 # Dependências do Node.js
 node_modules/
 
 # Configurações locais do VS Code
+
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.npmrc
+Stashed changes
 .vscode/settings.json
